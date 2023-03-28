@@ -1,30 +1,25 @@
-# planetsDistance
+# Distancia dos Planetas em Dias
 
-Calculadora de Distância dos Planetas
+## Calculadora de Distância dos Planetas
 A Calculadora de Distância dos Planetas é um projeto simples que usa uma API para calcular a distância de vários planetas em relação à Terra em termos de dias. Este projeto foi desenvolvido usando a linguagem de programação Python e a biblioteca requests.
 
-Começando
-Pré-requisitos
+## Começando
+### Pré-requisitos
 Antes de executar este projeto, você precisa instalar o seguinte:
+- Python 3.x
+- Biblioteca requests
+- Instalação
+Instale a biblioteca requests usando o comando: pip install requests
 
-Python 3.x
-Biblioteca requests
-Instalação
-Clone o repositório para o seu computador usando o comando:
-
+### Clone o repositório para o seu computador usando o comando: 
 git clone https://github.com/Diego-Eduardo-Wiltler/planetsDistance.git
 
 
-Instale a biblioteca requests usando o comando:
-
-pip install requests
-
-Executando o Projeto
+## Executando o Projeto
 Execute o seguinte comando para iniciar o projeto:
 
-python calculadora_distancia_planetas.py (exemplo)
-
-Você será solicitado a inserir o nome do planeta para o qual deseja calcular a distância.
+- python calculadora_distancia_planetas.py (exemplo) ou baixe a extenção Python no VSCODE
+- Você será solicitado a inserir o nome do planeta para o qual deseja calcular a distância.
 
 Após inserir o nome do planeta, o script fará uma solicitação à API para obter a distância do planeta em relação à Terra em termos de dias.
 
